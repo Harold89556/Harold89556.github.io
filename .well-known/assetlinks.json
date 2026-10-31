@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.hipertrofiapro.twa",
+      "sha256_cert_fingerprints": [
+        "FD:DF:7B:A0:15:7A:8F:BA:CE:16:FC:A6:CE:7C:88:97:63:03:FA:2A:6B:2A:93:36:90:89:04:8C:06:66:BB:75",
+        "7F:F5:4F:32:BA:8C:53:AC:2F:8A:63:F0:27:AC:92:7F:D4:54:CE:4E:FB:BF:E5:B3:6E:AE:36:7E:41:21:75:6F"
+      ]
+    }
+  }
+]
